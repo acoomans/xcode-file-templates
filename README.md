@@ -1,6 +1,6 @@
 # Xcode file templates
 
-A set of custom file templates for Xcode projects.
+A set of custom file templates for Xcode.
 
 ## Install 
 
